@@ -56,3 +56,7 @@
 
 * Google Analytics 연동
   * 사용자 트래픽 추적
+-------
+## 문서
+* [기획서](https://www.notion.so/sejulbook/1b7d94359f7b43f3805c86983b38251c)
+* [프로토타입](https://www.notion.so/sejulbook/90227092b1fb4f4aa9acd5000498e37e)
