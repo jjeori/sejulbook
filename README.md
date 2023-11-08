@@ -54,5 +54,5 @@
   * [인스타그램 보기](https://www.instagram.com/sejulbook/)
 * 에브리타임 홍보 게시물 업로드
 
-* Google Analytics 연동 후 사용자 트래픽 추적
-  * 에브리타임
+* Google Analytics 연동
+  * 사용자 트래픽 추적
