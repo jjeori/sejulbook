@@ -6,4 +6,6 @@
 > 
 > **1명의 개발자, 1명의 데이터 분석가**가 함께 만들어가는 프로젝트입니다.
 >
-
+* [세 줄 독후감](https://www.sejulbook.com/)
+* [세 줄 독후감 소개](https://www.notion.so/sejulbook/62e31077c0934b989acaa6819ef9947a)
+* [인스타그램](https://www.instagram.com/sejulbook/)
