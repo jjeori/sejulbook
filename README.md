@@ -38,11 +38,16 @@
 ------
 ## 역할
 1) #### [ERD 작성](https://www.notion.so/sejulbook/ERD-678013c840534c6db204a9eead62eff6)
-*  
+*  세 줄 독후감 DB 설계
+<img width="892" alt="스크린샷 2023-11-08 오후 6 12 31" src="https://github.com/jjeori/sejulbook/assets/99062088/d12c464e-2d9a-4138-9040-edb4561886de">
+
 2) #### [비즈니스 쿼리 작성](https://www.notion.so/sejulbook/SQL-Query-ab8481873e284149a402570f127f0d7a)
-*
+*  애플리케이션 서버에서 사용되는 SQL Query 작성 (MySQL 사용)
+* 서브쿼리, join을 이용
+* 개발자와 지속적인 대화를 나누며 지속적으로 쿼리성능 개선
+
 3) #### 회원 확보
 * 15분 책 읽기 내용과 세 줄 독후감을 작성하는 콘텐츠를 기획하여 인스타그램 운영
   * 타깃들에게 세 줄 독후감을 홍보하기 위한 목적으로 운영
 * 에브리타임 홍보 게시물 업로드
-  * Google Analytics 
+
