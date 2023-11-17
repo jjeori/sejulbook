@@ -43,7 +43,7 @@
 <img width="892" alt="스크린샷 2023-11-08 오후 6 12 31" src="https://github.com/jjeori/sejulbook/assets/99062088/d12c464e-2d9a-4138-9040-edb4561886de">
 
 
-2) #### 비즈니스 쿼리 작성
+2) #### 비즈니스 로직
 *  애플리케이션 서버에서 사용되는 SQL Query 작성 (MySQL 사용)
 * 서브쿼리, join, full text index 이용
 * 효율적인 쿼리를 위해 개발자와 지속적인 대화를 나누며 지속적으로 쿼리성능 개선
